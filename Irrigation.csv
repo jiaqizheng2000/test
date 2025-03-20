@@ -1,0 +1,279 @@
+id,time,irrigation_downlink,irrigation_mode,irrigation_device,irrigation_seconds,irrigation_value
+1,2025-03-05 07:13:09,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+2,2025-03-05 07:13:09,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+3,2025-03-05 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+4,2025-03-05 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+5,2025-03-05 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+6,2025-03-05 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+7,2025-03-05 09:00:02,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 128}}",water demand,24e124460d116961,128.10,0.100
+8,2025-03-05 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 128}}",water demand,24e124460e222692,128.10,0.100
+9,2025-03-05 11:13:09,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+10,2025-03-05 11:13:09,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+11,2025-03-05 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+12,2025-03-05 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+13,2025-03-05 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+14,2025-03-05 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+15,2025-03-05 15:13:09,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+16,2025-03-05 15:13:09,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+17,2025-03-06 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+18,2025-03-06 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+19,2025-03-06 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+20,2025-03-06 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+21,2025-03-06 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+22,2025-03-06 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+23,2025-03-06 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+24,2025-03-06 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+25,2025-03-06 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 189}}",water demand,24e124460e222692,189.40,0.200
+26,2025-03-06 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 189}}",water demand,24e124460d116961,189.40,0.200
+27,2025-03-06 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+28,2025-03-06 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+29,2025-03-06 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+30,2025-03-06 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+31,2025-03-06 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+32,2025-03-06 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+33,2025-03-06 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+34,2025-03-06 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+35,2025-03-07 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+36,2025-03-07 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+37,2025-03-07 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+38,2025-03-07 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+39,2025-03-07 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+40,2025-03-07 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+41,2025-03-07 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+42,2025-03-07 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+43,2025-03-07 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 172}}",water demand,24e124460e222692,172.80,0.200
+44,2025-03-07 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 172}}",water demand,24e124460d116961,172.80,0.200
+45,2025-03-07 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+46,2025-03-07 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+47,2025-03-07 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+48,2025-03-07 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+49,2025-03-07 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+50,2025-03-07 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+51,2025-03-07 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+52,2025-03-07 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+53,2025-03-08 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+54,2025-03-08 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+55,2025-03-08 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+56,2025-03-08 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+57,2025-03-08 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+58,2025-03-08 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+59,2025-03-08 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+60,2025-03-08 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+61,2025-03-08 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 149}}",water demand,24e124460d116961,149.00,0.100
+62,2025-03-08 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 149}}",water demand,24e124460e222692,149.00,0.100
+63,2025-03-08 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+64,2025-03-08 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+65,2025-03-08 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+66,2025-03-08 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+67,2025-03-08 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+68,2025-03-08 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+69,2025-03-08 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+70,2025-03-08 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+71,2025-03-09 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+72,2025-03-09 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+73,2025-03-09 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+74,2025-03-09 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+75,2025-03-09 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+76,2025-03-09 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+77,2025-03-09 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+78,2025-03-09 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+79,2025-03-09 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 160}}",water demand,24e124460e222692,160.70,0.200
+80,2025-03-09 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 160}}",water demand,24e124460d116961,160.70,0.200
+81,2025-03-09 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+82,2025-03-09 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+83,2025-03-09 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+84,2025-03-09 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+85,2025-03-09 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+86,2025-03-09 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+87,2025-03-09 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+88,2025-03-09 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+89,2025-03-10 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+90,2025-03-10 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+91,2025-03-10 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+92,2025-03-10 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+93,2025-03-10 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+94,2025-03-10 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+95,2025-03-10 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+96,2025-03-10 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+97,2025-03-10 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 167}}",water demand,24e124460e222692,167.10,0.200
+98,2025-03-10 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 167}}",water demand,24e124460d116961,167.10,0.200
+99,2025-03-10 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+100,2025-03-10 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+101,2025-03-10 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+102,2025-03-10 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+103,2025-03-10 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+104,2025-03-10 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+105,2025-03-10 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+106,2025-03-10 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+107,2025-03-11 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+108,2025-03-11 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+109,2025-03-11 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+110,2025-03-11 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+111,2025-03-11 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+112,2025-03-11 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+113,2025-03-11 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+114,2025-03-11 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+115,2025-03-11 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 149}}",water demand,24e124460e222692,149.80,0.100
+116,2025-03-11 09:00:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 149}}",water demand,24e124460d116961,149.80,0.100
+117,2025-03-11 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+118,2025-03-11 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+119,2025-03-11 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+120,2025-03-11 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+121,2025-03-11 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+122,2025-03-11 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+123,2025-03-11 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+124,2025-03-11 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+125,2025-03-12 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+126,2025-03-12 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+127,2025-03-12 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+128,2025-03-12 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+129,2025-03-12 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+130,2025-03-12 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+131,2025-03-12 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+132,2025-03-12 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+133,2025-03-12 09:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 173}}",water demand,24e124460d116961,173.10,0.200
+134,2025-03-12 09:00:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 173}}",water demand,24e124460e222692,173.10,0.200
+135,2025-03-12 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+136,2025-03-12 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+137,2025-03-12 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+138,2025-03-12 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+139,2025-03-12 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+140,2025-03-12 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+141,2025-03-12 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+142,2025-03-12 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+143,2025-03-13 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+144,2025-03-13 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+145,2025-03-13 07:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+146,2025-03-13 07:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+147,2025-03-13 08:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+148,2025-03-13 08:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+149,2025-03-13 08:00:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 121}}",water demand,24e124460d116961,121.20,0.100
+150,2025-03-13 08:00:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 121}}",water demand,24e124460e222692,121.20,0.100
+151,2025-03-13 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+152,2025-03-13 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+153,2025-03-13 08:10:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 121}}",water demand,24e124460d116961,121.20,0.100
+154,2025-03-13 08:10:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 121}}",water demand,24e124460e222692,121.20,0.100
+155,2025-03-13 11:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+156,2025-03-13 11:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+157,2025-03-13 14:30:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 126}}",water demand,24e124460e222692,126.30,0.100
+158,2025-03-13 14:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 126}}",water demand,24e124460d116961,126.30,0.100
+159,2025-03-13 14:40:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 126}}",water demand,24e124460e222692,126.30,0.100
+160,2025-03-13 14:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 126}}",water demand,24e124460d116961,126.30,0.100
+161,2025-03-13 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+162,2025-03-13 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+163,2025-03-13 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+164,2025-03-13 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+165,2025-03-13 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+166,2025-03-13 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+167,2025-03-14 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+168,2025-03-14 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+169,2025-03-14 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+170,2025-03-14 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+171,2025-03-14 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+172,2025-03-14 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+173,2025-03-14 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+174,2025-03-14 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+175,2025-03-14 08:30:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 227}}",water demand,24e124460e222692,227.60,0.200
+176,2025-03-14 08:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 227}}",water demand,24e124460d116961,227.60,0.200
+177,2025-03-14 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+178,2025-03-14 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+179,2025-03-14 14:30:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 233}}",water demand,24e124460e222692,233.30,0.200
+180,2025-03-14 14:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 233}}",water demand,24e124460d116961,233.30,0.200
+181,2025-03-14 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+182,2025-03-14 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+183,2025-03-14 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+184,2025-03-14 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+185,2025-03-14 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+186,2025-03-14 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+187,2025-03-15 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+188,2025-03-15 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+189,2025-03-15 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+190,2025-03-15 07:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+191,2025-03-15 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+192,2025-03-15 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+193,2025-03-15 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+194,2025-03-15 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+195,2025-03-15 08:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 127}}",water demand,24e124460e222692,127.90,0.100
+196,2025-03-15 08:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 127}}",water demand,24e124460d116961,127.90,0.100
+197,2025-03-15 08:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 127}}",water demand,24e124460e222692,127.90,0.100
+198,2025-03-15 08:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 127}}",water demand,24e124460d116961,127.90,0.100
+199,2025-03-15 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+200,2025-03-15 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+201,2025-03-15 14:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 135}}",water demand,24e124460d116961,135.30,0.100
+202,2025-03-15 14:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 135}}",water demand,24e124460e222692,135.30,0.100
+203,2025-03-15 14:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 135}}",water demand,24e124460d116961,135.30,0.100
+204,2025-03-15 14:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 135}}",water demand,24e124460e222692,135.30,0.100
+205,2025-03-15 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+206,2025-03-15 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+207,2025-03-15 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+208,2025-03-15 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+209,2025-03-15 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+210,2025-03-15 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+211,2025-03-16 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+212,2025-03-16 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+213,2025-03-16 07:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+214,2025-03-16 07:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+215,2025-03-16 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+216,2025-03-16 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+217,2025-03-16 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+218,2025-03-16 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+219,2025-03-16 08:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 141}}",water demand,24e124460e222692,141.30,0.100
+220,2025-03-16 08:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 141}}",water demand,24e124460d116961,141.30,0.100
+221,2025-03-16 08:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 141}}",water demand,24e124460e222692,141.30,0.100
+222,2025-03-16 08:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 141}}",water demand,24e124460d116961,141.30,0.100
+223,2025-03-16 11:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+224,2025-03-16 11:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+225,2025-03-16 14:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 141}}",water demand,24e124460d116961,141.30,0.100
+226,2025-03-16 14:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 141}}",water demand,24e124460e222692,141.30,0.100
+227,2025-03-16 14:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 141}}",water demand,24e124460e222692,141.30,0.100
+228,2025-03-16 14:40:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 141}}",water demand,24e124460d116961,141.30,0.100
+229,2025-03-16 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 180}}",regular,24e124460e222692,180.00,0.200
+230,2025-03-16 15:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 180}}",regular,24e124460d116961,180.00,0.200
+231,2025-03-16 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+232,2025-03-16 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+233,2025-03-16 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+234,2025-03-16 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+235,2025-03-16 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+236,2025-03-16 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+237,2025-03-17 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+238,2025-03-17 03:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+239,2025-03-17 07:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+240,2025-03-17 07:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+241,2025-03-17 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+242,2025-03-17 08:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+243,2025-03-17 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.100
+244,2025-03-17 08:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.100
+245,2025-03-17 08:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 214}}",water demand,24e124460d116961,214.40,0.200
+246,2025-03-17 08:30:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 214}}",water demand,24e124460e222692,214.40,0.200
+247,2025-03-17 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+248,2025-03-17 11:00:00,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+249,2025-03-17 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+250,2025-03-17 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+251,2025-03-17 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 300}}",regular,24e124460e224065,300.00,0.300
+252,2025-03-17 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 300}}",regular,24e124460e222699,300.00,0.300
+253,2025-03-18 03:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+254,2025-03-18 03:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+255,2025-03-18 07:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+256,2025-03-18 07:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+257,2025-03-18 07:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.100
+258,2025-03-18 07:00:03,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.100
+259,2025-03-18 07:00:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 360}}",water demand,24e124460d116961,360.00,0.300
+260,2025-03-18 07:00:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 360}}",water demand,24e124460e222692,360.00,0.300
+261,2025-03-18 07:10:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 289}}",water demand,24e124460d116961,289.70,0.300
+262,2025-03-18 07:10:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 289}}",water demand,24e124460e222692,289.70,0.300
+263,2025-03-18 07:20:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 289}}",water demand,24e124460d116961,289.70,0.300
+264,2025-03-18 07:20:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 289}}",water demand,24e124460e222692,289.70,0.300
+265,2025-03-18 08:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 300}}",regular,24e124460e224065,300.00,0.300
+266,2025-03-18 08:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 300}}",regular,24e124460e222699,300.00,0.300
+267,2025-03-18 11:00:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.113
+268,2025-03-18 11:00:04,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.113
+269,2025-03-18 14:30:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 177}}",water demand,24e124460e222692,177.87,0.168
+270,2025-03-18 14:30:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 177}}",water demand,24e124460d116961,177.87,0.168
+271,2025-03-18 14:40:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 177}}",water demand,24e124460e222692,177.87,0.168
+272,2025-03-18 14:40:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 177}}",water demand,24e124460d116961,177.87,0.168
+273,2025-03-18 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.142
+274,2025-03-18 15:00:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.142
+275,2025-03-18 15:00:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e223964,120.00,0.113
+276,2025-03-18 15:00:05,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 120}}",humidity control,24e124460e222829,120.00,0.113
+277,2025-03-18 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e222699,150.00,0.142
+278,2025-03-18 15:10:01,"{'Type': 'ValveControl', 'ValveControl': {'ValveId': 1, 'ValveStatus': 'OPEN', 'TimeControl': 150}}",regular,24e124460e224065,150.00,0.142
